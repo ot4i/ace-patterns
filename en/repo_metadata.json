@@ -1,0 +1,34 @@
+{
+    "pattern_categories" :
+     [
+        {
+            "id": "com.ibm.etools.pattern",
+            "name": "Patterns",
+            "parent_category_id": null,
+            "doc_url": null
+        },
+
+        {
+            "id": "categories.Id128060cd5424813434183055e99",
+            "name": "Samples",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "https://ot4i.github.io/patterns/en/categories/Id128060cd5424813434183055e99/overview.htm"
+        }
+
+
+
+
+     ],
+
+ 
+
+
+    "patterns": [
+
+        
+
+
+    ]
+
+
+}
