@@ -293,7 +293,7 @@
                 "feature_group_name" : "com.ibm.etools.mft.pattern.sv.archive.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.sv.archive.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/service-proxy-static-endpoint-pattern/releases/download/1.0.0.0/ServiceProxyIntegration.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/service-proxy-static-endpoint-pattern/releases/download/2.0.0.0/ServiceProxyIntegration.V2000.patternzip",
                 "patternzipSize" : "1.77 MB"
               }
             ]
