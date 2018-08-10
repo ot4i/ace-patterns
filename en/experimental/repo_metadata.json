@@ -257,7 +257,7 @@
                 "feature_group_name" : "com.ibm.etools.mft.pattern.sen.archive.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.sen.archive.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/service-facade-mq-request-response-pattern/releases/download/1.0.0.0/ServiceFacadeIntegration.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/service-facade-mq-request-response-pattern/releases/download/2.0.0.0/ServiceFacadeIntegration.V2000.patternzip",
                 "patternzipSize" : "2.95 MB"
               }
             ]
@@ -275,7 +275,7 @@
                 "feature_group_name" : "com.ibm.etools.mft.pattern.sen.archive.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.sen.archive.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/service-facade-mq-request-response-pattern/releases/download/1.0.0.0/ServiceFacadeIntegration.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/service-facade-mq-request-response-pattern/releases/download/2.0.0.0/ServiceFacadeIntegration.V2000.patternzip",
                 "patternzipSize" : "2.95 MB"
               }
             ]
