@@ -113,7 +113,7 @@
                 "feature_group_name" : "com.ibm.etools.mft.pattern.dynamictocrm.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.dynamictocrm.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/dynamic-to-crm-pattern/releases/download/V1.0/DynamicToCRM.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/dynamic-to-crm-pattern/releases/download/V2.0/DynamicToCRM.patternzip",
                 "patternzipSize" : "3594 KB"
               }
             ]
