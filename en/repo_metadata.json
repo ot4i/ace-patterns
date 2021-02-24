@@ -109,7 +109,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "11*" ],
+                "valid_for_product_version": [ "11*-12*" ],
                 "feature_group_name" : "com.ibm.etools.mft.pattern.dynamictocrm.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.dynamictocrm.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
