@@ -114,6 +114,18 @@
             "name": "Scatter-Gather Patterns",
             "parent_category_id": "com.ibm.etools.pattern",
             "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.html"
+	},
+ 	{
+            "id": "com.ibm.dev.pattern.messaging",
+            "name": "Messaging Patterns",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/Messaging.html"
+	},
+ 	{
+            "id": "com.ibm.dev.pattern.enterpriseintegration",
+            "name": "Enterprise Integration Patterns",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html"
 	}
      ],
 
@@ -2040,6 +2052,240 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Splitter.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/Splitter.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.MessagingFireandForget",
+            "name": "Messaging Fire-and-Forget",
+            "category_id": "com.ibm.dev.pattern.messaging",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/Messaging.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.MessagingFireandForget.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingFireandForget.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/MessagingFireandForget.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.MessagingRequestReply",
+            "name": "Messaging Request-Reply",
+            "category_id": "com.ibm.dev.pattern.messaging",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/Messaging.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.MessagingRequestReply.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingRequestReply.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/MessagingRequestReply.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.MessagingPublication",
+            "name": "Messaging Publication",
+            "category_id": "com.ibm.dev.pattern.messaging",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/Messaging.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.MessagingPublication.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingPublication.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/MessagingPublication.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.CoordinatedRequestReply",
+            "name": "Coordinated Request-Reply",
+            "category_id": "com.ibm.dev.pattern.messaging",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/Messaging.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.CoordinatedRequestReply.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.CoordinatedRequestReply.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/CoordinatedRequestReply.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.Saga",
+            "name": "Saga",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.Saga.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.Saga.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/Saga.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.CircuitBreaker",
+            "name": "Circuit Breaker",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.CircuitBreaker.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.CircuitBreaker.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/CircuitBreaker.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.RecordandReplay",
+            "name": "Record and Replay",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.RecordandReplay.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.RecordandReplay.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/RecordandReplay.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.ClaimCheck",
+            "name": "Claim Check",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.ClaimCheck.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.ClaimCheck.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/ClaimCheck.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.Filtering",
+            "name": "Filtering",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.Filtering.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.Filtering.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/Filtering.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DynamicRouting",
+            "name": "Dynamic Routing",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DynamicRouting.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DynamicRouting.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/DynamicRouting.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.Scheduling",
+            "name": "Scheduling",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.Scheduling.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.Scheduling.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/Scheduling.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.SequenceResequence",
+            "name": "Sequence-Resequence",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.SequenceResequence.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.SequenceResequence.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/SequenceResequence.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.CanonicalDataModel",
+            "name": "Canonical Data Model",
+            "category_id": "com.ibm.dev.pattern.enterpriseintegration",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/EnterpriseIntegration.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.CanonicalDataModel.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.CanonicalDataModel.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/CanonicalDataModel.V1000.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
