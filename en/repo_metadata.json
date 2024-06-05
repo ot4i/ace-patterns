@@ -101,19 +101,19 @@
             "id": "com.ibm.dev.pattern.protocoltransformation",
             "name": "Protocol Transformation Patterns",
             "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.htm"
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html"
 	},
  	{
             "id": "com.ibm.dev.pattern.formattransformation",
             "name": "Format Transformation Patterns",
             "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.htm"
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html"
 	},
  	{
             "id": "com.ibm.dev.pattern.scattergather",
             "name": "Scatter-Gather Patterns",
             "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.htm"
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.html"
 	}
      ],
 
@@ -317,10 +317,28 @@
             ]
         },
         {
+            "id" : "com.ibm.dev.pattern.DatabasetoEmail",
+            "name": "Database to Email",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoEmail.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoEmail.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoEmail.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
             "id" : "com.ibm.dev.pattern.DatabasetoFile",
             "name": "Database to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.htm",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
             "ibm_supported": true,
             "versions" :
             [
@@ -329,7 +347,115 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoFile.patternzip",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoFile.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DatabasetoHTTP",
+            "name": "Database to HTTP",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoHTTP.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoHTTP.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoHTTP.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DatabasetoIBMMQ",
+            "name": "Database to IBMMQ",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoIBMMQ.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoIBMMQ.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoIIBMMQ.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DatabasetoJMS",
+            "name": "Database to JMS",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoJMS.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoJMS.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoJMS.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DatabasetoKafka",
+            "name": "Database to Kafka",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoKafka.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DatabasetoMQTT",
+            "name": "Database to MQTT",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoMQTT.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoMQTT.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoMQTT.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DatabasetoTCPIP",
+            "name": "Database to TCPIP",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoTCPIP.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoTCPIP.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
