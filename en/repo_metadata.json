@@ -101,7 +101,19 @@
             "id": "com.ibm.dev.pattern.protocoltransformation",
             "name": "Protocol Transformation Patterns",
             "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "https://pages.github.ibm.com/BTHOMPS/ace-patterns/v13/en/categories/ProtocolTransformation.htm"
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.htm"
+	},
+ 	{
+            "id": "com.ibm.dev.pattern.formattransformation",
+            "name": "Format Transformation Patterns",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.htm"
+	},
+ 	{
+            "id": "com.ibm.dev.pattern.scattergather",
+            "name": "Scatter-Gather Patterns",
+            "parent_category_id": "com.ibm.etools.pattern",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.htm"
 	}
      ],
 
@@ -305,20 +317,20 @@
             ]
         },
         {
-            "id" : "com.ibm.dev.pattern.filetomq",
-            "name": "File to MQ Example",
+            "id" : "com.ibm.dev.pattern.DatabasetoFile",
+            "name": "Database to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://pages.github.ibm.com/BTHOMPS/ace-patterns/v13/en/categories/ProtocolTransformation.htm",
+            "doc_url": "https://github.com/ot4i/ace-patterns/v13/releasesen/categories/ProtocolTransformation.htm",
             "ibm_supported": true,
             "versions" :
             [
               { "number" : 1.0,
                 "valid_for_product_version": [ "13*","@@@" ],
-                "feature_group_name" : "com.ibm.etools.mft.pattern.sv.archive.Feature.feature.group",
-                "nl_feature_group_name" : "com.ibm.etools.mft.pattern.sv.archive.Feature.NL.feature.group",
+                "feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/service-proxy-static-endpoint-pattern/releases/download/2.0.0.0/ServiceProxyIntegration.V2000.patternzip",
-                "patternzipSize" : "1.77 MB"
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoFile.patternzip",
+                "patternzipSize" : "1.23 MB"
               }
             ]
         }
