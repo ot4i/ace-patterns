@@ -96,7 +96,7 @@
             "name": "Service Facade",
             "parent_category_id": "com.ibm.etools.mft.pattern.sv",
             "doc_url": "https://ot4i.github.io/patterns/en/categories/com.ibm.etools.mft.pattern.sv.sp/overview.htm"
-        }
+        },
  	{
             "id": "com.ibm.dev.pattern.protocoltransformation",
             "name": "Protocol Transformation Patterns",
