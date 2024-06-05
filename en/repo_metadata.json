@@ -383,7 +383,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoIIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoIBMMQ.V1000.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -456,6 +456,150 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoTCPIP.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoDatabase",
+            "name": "Email to Database",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoDatabase.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoDatabase.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoDatabase.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoFile",
+            "name": "Email to File",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoFile.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoFile.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoFile.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoHTTP",
+            "name": "Email to HTTP",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoHTTP.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoHTTP.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoHTTP.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoIBMMQ",
+            "name": "Email to IBMMQ",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoIBMMQ.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoIBMMQ.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoIBMMQ.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoJMS",
+            "name": "Email to JMS",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoJMS.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoJMS.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoJMS.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoKafka",
+            "name": "Email to Kafka",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoKafka.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoKafka.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoKafka.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoMQTT",
+            "name": "Email to MQTT",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoMQTT.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoMQTT.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoMQTT.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.EmailtoTCPIP",
+            "name": "Email to TCPIP",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.EmailtoTCPIP.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoTCPIP.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoTCPIP.V1000.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -605,6 +749,150 @@
             ]
         },
         {
+            "id" : "com.ibm.dev.pattern.HTTPtoDatabase",
+            "name": "HTTP to Database",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoDatabase.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoDatabase.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoDatabase.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.HTTPtoEmail",
+            "name": "HTTP to Email",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoEmail.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoEmail.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoEmail.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.HTTPtoFile",
+            "name": "HTTP to File",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoFile.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoFile.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoFile.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.HTTPtoIBMMQ",
+            "name": "HTTP to IBMMQ",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoIBMMQ.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoIBMMQ.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoIBMMQ.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.HTTPtoJMS",
+            "name": "HTTP to JMS",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoJMS.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoJMS.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoJMS.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.HTTPtoKafka",
+            "name": "HTTP to Kafka",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoKafka.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoKafka.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoKafka.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.HTTPtoMQTT",
+            "name": "HTTP to MQTT",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoMQTT.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoMQTT.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoMQTT.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.HTTPtoTCPIP",
+            "name": "HTTP to TCPIP",
+            "category_id": "com.ibm.dev.pattern.protocoltransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.HTTPtoTCPIP.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoTCPIP.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoTCPIP.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
             "id" : "com.ibm.dev.pattern.BLOBtoJSON",
             "name": "BLOB to JSON",
             "category_id": "com.ibm.dev.pattern.formattransformation",
@@ -744,6 +1032,294 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JSONtoDelimited.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/JSONtoDelimited.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.XMLtoBLOB",
+            "name": "XML to BLOB",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.XMLtoBLOB.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoBLOB.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoBLOB.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.XMLtoJSON",
+            "name": "JSON to XML",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.XMLtoJSON.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoJSON.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoJSON.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.XMLtoFixedLength",
+            "name": "XML to Fixed Length",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.XMLtoFixedLength.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoFixedLength.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoFixedLength.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.XMLtoDelimited",
+            "name": "XML to Delimited",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.XMLtoDelimited.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoDelimited.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoDelimited.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.FixedLengthtoBLOB",
+            "name": "Fixed Length to BLOB",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoBLOB.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoBLOB.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoBLOB.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.FixedLengthtoJSON",
+            "name": "Fixed Length to JSON",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoJSON.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoJSON.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoJSON.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.FixedLengthtoXML",
+            "name": "Fixed Length to XML",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoXML.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoXML.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoXML.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.FixedLengthtoDelimited",
+            "name": "Fixed Length to Delimited",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoDelimited.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoDelimited.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoDelimited.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DelimitedtoBLOB",
+            "name": "Delimited to BLOB",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoBLOB.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoBLOB.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoBLOB.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DelimitedtoJSON",
+            "name": "Delimited to JSON",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoJSON.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoJSON.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoJSON.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DelimitedtoXML",
+            "name": "Delimited to XML",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoXML.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoXML.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoXML.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.DelimitedtoFixedLength",
+            "name": "Delimited to Fixed Length",
+            "category_id": "com.ibm.dev.pattern.formattransformation",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/FormatTransformation.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoFixedLength.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoFixedLength.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoFixedLength.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.PersistentAggregation",
+            "name": "Persistent Aggregation",
+            "category_id": "com.ibm.dev.pattern.scattergather",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.PersistentAggregation.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.PersistentAggregation.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/PersistentAggregation.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.NonPersistentAggregation",
+            "name": "Non-Persistent Aggregation",
+            "category_id": "com.ibm.dev.pattern.scattergather",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.NonPersistentAggregation.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.NonPersistentAggregation.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/NonPersistentAggregation.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.Collector",
+            "name": "Collector",
+            "category_id": "com.ibm.dev.pattern.scattergather",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.Collector.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.Collector.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/Collector.V1000.patternzip",
+                "patternzipSize" : "1.23 MB"
+              }
+            ]
+        },
+        {
+            "id" : "com.ibm.dev.pattern.Splitter",
+            "name": "Splitter",
+            "category_id": "com.ibm.dev.pattern.scattergather",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ScatterGather.html",
+            "ibm_supported": true,
+            "versions" :
+            [
+              { "number" : 1.0,
+                "valid_for_product_version": [ "13*","@@@" ],
+                "feature_group_name" : "com.ibm.dev.pattern.Splitter.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.Splitter.Feature.NL.feature.group",
+                "qualifier" : "1.0.0.0",
+                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/Splitter.V1000.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
