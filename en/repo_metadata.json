@@ -100,7 +100,7 @@
  	{
             "id": "com.ibm.dev.pattern.protocoltransformation",
             "name": "Protocol Transformation Patterns",
-            "parent_category_id": "com.ibm.dev.pattern",
+            "parent_category_id": "com.ibm.etools.pattern",
             "doc_url": "https://pages.github.ibm.com/BTHOMPS/ace-patterns/v13/en/categories/ProtocolTransformation.htm"
 	}
      ],
