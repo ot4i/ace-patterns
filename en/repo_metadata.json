@@ -341,8 +341,8 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoEmail.V1000.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoEmail.patternzip",
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -359,7 +359,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -377,7 +377,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -395,7 +395,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -413,7 +413,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -431,7 +431,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -449,7 +449,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -467,7 +467,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DatabasetoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/DatabasetoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -485,7 +485,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -503,7 +503,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -521,7 +521,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -539,7 +539,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -557,7 +557,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -575,7 +575,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -593,7 +593,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -611,7 +611,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.EmailtoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/EmailtoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -629,7 +629,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -647,7 +647,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoEmail.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoEmail.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -665,7 +665,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -683,7 +683,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -701,7 +701,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -719,7 +719,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -737,7 +737,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -755,7 +755,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FiletoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/FiletoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -773,7 +773,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -791,7 +791,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoEmail.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoEmail.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -809,7 +809,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -827,7 +827,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -845,7 +845,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -863,7 +863,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -881,7 +881,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -899,7 +899,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.HTTPtoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/HTTPtoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -917,7 +917,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -935,7 +935,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoEmail.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoEmail.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -953,7 +953,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -971,7 +971,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -989,7 +989,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1007,7 +1007,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1025,7 +1025,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1043,7 +1043,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.IBMMQtoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/IBMMQtoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1061,7 +1061,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1079,7 +1079,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoEmail.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoEmail.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1097,7 +1097,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1115,7 +1115,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1133,7 +1133,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1151,7 +1151,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1169,7 +1169,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1187,7 +1187,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JMStoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/JMStoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1205,7 +1205,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1223,7 +1223,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoEmail.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoEmail.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1241,7 +1241,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1259,7 +1259,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1277,7 +1277,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1295,7 +1295,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1313,7 +1313,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1331,7 +1331,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.KafkatoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/KafkatoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1349,7 +1349,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1367,7 +1367,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoEmail.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoEmail.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1385,7 +1385,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1403,7 +1403,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1421,7 +1421,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1439,7 +1439,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1457,7 +1457,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1475,7 +1475,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MQTTtoTCPIP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/MQTTtoTCPIP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoTCPIP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1493,7 +1493,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoDatabase.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoDatabase.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoDatabase.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1511,7 +1511,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoEmail.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoEmail.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoEmail.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1529,7 +1529,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoFile.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoFile.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoFile.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1547,7 +1547,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoHTTP.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoHTTP.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoHTTP.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1565,7 +1565,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoIBMMQ.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoIBMMQ.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoIBMMQ.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1583,7 +1583,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoJMS.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoJMS.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoJMS.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1601,7 +1601,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoKafka.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoKafka.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoKafka.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1619,7 +1619,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.TCPIPtoMQTT.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/protocoltransformation/TCPIPtoMQTT.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoMQTT.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
