@@ -332,7 +332,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoEmail",
             "name": "Database to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -350,7 +350,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoFile",
             "name": "Database to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -360,7 +360,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -368,7 +368,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoHTTP",
             "name": "Database to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -378,7 +378,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -386,7 +386,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoIBMMQ",
             "name": "Database to IBMMQ",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoIBMMQ.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -396,7 +396,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -404,7 +404,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoJMS",
             "name": "Database to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -414,7 +414,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -422,7 +422,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoKafka",
             "name": "Database to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -432,7 +432,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -440,7 +440,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoMQTT",
             "name": "Database to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -450,7 +450,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -458,7 +458,7 @@
             "id" : "com.ibm.dev.pattern.DatabasetoTCPIP",
             "name": "Database to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/DatabasetoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -468,7 +468,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DatabasetoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DatabasetoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -476,7 +476,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoDatabase",
             "name": "Email to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -486,7 +486,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -494,7 +494,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoFile",
             "name": "Email to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -504,7 +504,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -512,7 +512,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoHTTP",
             "name": "Email to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -522,7 +522,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -530,7 +530,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoIBMMQ",
             "name": "Email to IBMMQ",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoIBMMQ.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -540,7 +540,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -548,7 +548,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoJMS",
             "name": "Email to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -558,7 +558,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -566,7 +566,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoKafka",
             "name": "Email to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -576,7 +576,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -584,7 +584,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoMQTT",
             "name": "Email to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -594,7 +594,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -602,7 +602,7 @@
             "id" : "com.ibm.dev.pattern.EmailtoTCPIP",
             "name": "Email to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/EmailtoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -612,7 +612,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.EmailtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/EmailtoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -620,7 +620,7 @@
             "id" : "com.ibm.dev.pattern.FiletoDatabase",
             "name": "File to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/FiletoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -630,7 +630,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -638,7 +638,7 @@
             "id" : "com.ibm.dev.pattern.FiletoEmail",
             "name": "File to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/FiletoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -648,7 +648,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoEmail.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -656,7 +656,7 @@
             "id" : "com.ibm.dev.pattern.FiletoHTTP",
             "name": "File to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/FiletoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -666,7 +666,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -684,7 +684,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -692,7 +692,7 @@
             "id" : "com.ibm.dev.pattern.FiletoJMS",
             "name": "File to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/FiletoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -702,7 +702,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -710,7 +710,7 @@
             "id" : "com.ibm.dev.pattern.FiletoKafka",
             "name": "File to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/FiletoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -720,7 +720,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -728,7 +728,7 @@
             "id" : "com.ibm.dev.pattern.FiletoMQTT",
             "name": "File to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/FiletoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -738,7 +738,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -746,7 +746,7 @@
             "id" : "com.ibm.dev.pattern.FiletoTCPIP",
             "name": "File to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/FiletoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -756,7 +756,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FiletoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FiletoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -764,7 +764,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoDatabase",
             "name": "HTTP to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -774,7 +774,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -782,7 +782,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoEmail",
             "name": "HTTP to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -792,7 +792,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoEmail.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -800,7 +800,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoFile",
             "name": "HTTP to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -810,7 +810,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -818,7 +818,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoIBMMQ",
             "name": "HTTP to IBMMQ",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoIBMMQ.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -828,7 +828,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -836,7 +836,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoJMS",
             "name": "HTTP to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -846,7 +846,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -854,7 +854,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoKafka",
             "name": "HTTP to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -864,7 +864,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -872,7 +872,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoMQTT",
             "name": "HTTP to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -882,7 +882,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -890,7 +890,7 @@
             "id" : "com.ibm.dev.pattern.HTTPtoTCPIP",
             "name": "HTTP to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/HTTPtoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -900,7 +900,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.HTTPtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -908,7 +908,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoDatabase",
             "name": "IBM MQ to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -918,7 +918,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -926,7 +926,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoEmail",
             "name": "IBM MQ to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -936,7 +936,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoEmail.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -944,7 +944,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoFile",
             "name": "IBM MQ to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -954,7 +954,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -962,7 +962,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoHTTP",
             "name": "IBM MQ to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -972,7 +972,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -980,7 +980,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoJMS",
             "name": "IBM MQ to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -990,7 +990,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -998,7 +998,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoKafka",
             "name": "IBM MQ to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1008,7 +1008,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1016,7 +1016,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoMQTT",
             "name": "IBM MQ to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1026,7 +1026,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1034,7 +1034,7 @@
             "id" : "com.ibm.dev.pattern.IBMMQtoTCPIP",
             "name": "IBM MQ to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/IBMMQtoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1044,7 +1044,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.IBMMQtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/IBMMQtoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1052,7 +1052,7 @@
             "id" : "com.ibm.dev.pattern.JMStoDatabase",
             "name": "JMS to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1062,7 +1062,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1070,7 +1070,7 @@
             "id" : "com.ibm.dev.pattern.JMStoEmail",
             "name": "JMS to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1080,7 +1080,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoEmail.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1088,7 +1088,7 @@
             "id" : "com.ibm.dev.pattern.JMStoFile",
             "name": "JMS to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1098,7 +1098,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1106,7 +1106,7 @@
             "id" : "com.ibm.dev.pattern.JMStoHTTP",
             "name": "JMS to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1116,7 +1116,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1124,7 +1124,7 @@
             "id" : "com.ibm.dev.pattern.JMStoIBMMQ",
             "name": "JMS to IBM MQ",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoIBMMQ.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1134,7 +1134,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1142,7 +1142,7 @@
             "id" : "com.ibm.dev.pattern.JMStoKafka",
             "name": "JMS to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1152,7 +1152,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1160,7 +1160,7 @@
             "id" : "com.ibm.dev.pattern.JMStoMQTT",
             "name": "JMS to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1170,7 +1170,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1178,7 +1178,7 @@
             "id" : "com.ibm.dev.pattern.JMStoTCPIP",
             "name": "JMS to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/JMStoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1188,7 +1188,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JMStoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JMStoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1196,7 +1196,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoDatabase",
             "name": "Kafka to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1206,7 +1206,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1214,7 +1214,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoEmail",
             "name": "Kafka to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1224,7 +1224,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoEmail.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1232,7 +1232,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoFile",
             "name": "Kafka to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1242,7 +1242,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1250,7 +1250,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoHTTP",
             "name": "Kafka to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1260,7 +1260,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1268,7 +1268,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoIBMMQ",
             "name": "Kafka to IBM MQ",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoIBMMQ.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1278,7 +1278,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1286,7 +1286,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoJMS",
             "name": "Kafka to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1296,7 +1296,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1304,7 +1304,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoMQTT",
             "name": "Kafka to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1314,7 +1314,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1322,7 +1322,7 @@
             "id" : "com.ibm.dev.pattern.KafkatoTCPIP",
             "name": "Kafka to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/KafkatoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1332,7 +1332,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.KafkatoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/KafkatoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1340,7 +1340,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoDatabase",
             "name": "MQTT to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1350,7 +1350,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1358,7 +1358,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoEmail",
             "name": "MQTT to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1368,7 +1368,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoEmail.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1376,7 +1376,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoFile",
             "name": "MQTT to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1386,7 +1386,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1394,7 +1394,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoHTTP",
             "name": "MQTT to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1404,7 +1404,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1412,7 +1412,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoIBMMQ",
             "name": "MQTT to IBM MQ",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoIBMMQ.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1422,7 +1422,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1430,7 +1430,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoJMS",
             "name": "MQTT to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1440,7 +1440,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1448,7 +1448,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoKafka",
             "name": "MQTT to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1458,7 +1458,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1466,7 +1466,7 @@
             "id" : "com.ibm.dev.pattern.MQTTtoTCPIP",
             "name": "MQTT to TCPIP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/MQTTtoTCPIP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1476,7 +1476,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MQTTtoTCPIP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MQTTtoTCPIP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1484,7 +1484,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoDatabase",
             "name": "TCPIP to Database",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoDatabase.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1494,7 +1494,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoDatabase.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoDatabase.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1502,7 +1502,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoEmail",
             "name": "TCPIP to Email",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoEmail.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1512,7 +1512,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoEmail.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoEmail.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1520,7 +1520,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoFile",
             "name": "TCPIP to File",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoFile.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1530,7 +1530,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoFile.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoFile.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1538,7 +1538,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoHTTP",
             "name": "TCPIP to HTTP",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoHTTP.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1548,7 +1548,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoHTTP.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoHTTP.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1556,7 +1556,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoIBMMQ",
             "name": "TCPIP to IBM MQ",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoIBMMQ.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1566,7 +1566,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoIBMMQ.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoIBMMQ.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1574,7 +1574,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoJMS",
             "name": "TCPIP to JMS",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoJMS.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1584,7 +1584,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoJMS.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoJMS.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1592,7 +1592,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoKafka",
             "name": "TCPIP to Kafka",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoKafka.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1602,7 +1602,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoKafka.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoKafka.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
@@ -1610,7 +1610,7 @@
             "id" : "com.ibm.dev.pattern.TCPIPtoMQTT",
             "name": "TCPIP to MQTT",
             "category_id": "com.ibm.dev.pattern.protocoltransformation",
-            "doc_url": "https://ot4i.github.io/ace-patterns/en/categories/ProtocolTransformation.html",
+            "doc_url": "https://ot4i.github.io/ace-patterns/en/ProtocolTransformation/TCPIPtoMQTT.htm",
             "ibm_supported": true,
             "versions" :
             [
@@ -1620,7 +1620,7 @@
                 "nl_feature_group_name" : "com.ibm.dev.pattern.TCPIPtoMQTT.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/TCPIPtoMQTT.patternzip",
-                "patternzipSize" : "1.23 MB"
+                "patternzipSize" : "9.99 MB"
               }
             ]
         },
