@@ -48,6 +48,19 @@
     <p>The HTTP to Kafka pattern provides a simple integration solution 
 that takes input data over HTTP and outputs to a Kafka topic.
 </p>
+ <button onclick="downloadAndInstallPatternFunction()">Install</button> 
 </div>
 </body>
+<script>
+   function downloadAndInstallPatternFunction(selectName) 
+   {
+      try 
+      {
+        result = javaDownloadAndInstallPatternFunction(patternzipDownloadURL);
+      }
+      catch(e){
+          alert( 'a java error in javaDownloadAndInstallPatternFunction occurred: ' + e.message );
+      }
+   };
+</script>
 </html>
