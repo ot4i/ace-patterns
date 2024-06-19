@@ -48,18 +48,55 @@
     <p>The HTTP to Kafka pattern provides a simple integration solution 
 that takes input data over HTTP and outputs to a Kafka topic.
 </p>
- <button onclick="downloadAndInstallPatternFunction()">Install</button> 
+ <button onclick="downloadAndInstallPatternFunctionA('https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoKafka.patternzip')">InstallA</button> 
+
+ <button onclick="downloadAndInstallPatternFunctionB()">InstallB</button> 
+ <button onclick="downloadAndInstallPatternFunctionC()">InstallC</button> 
+ <button onclick="downloadAndInstallPatternFunctionD()">InstallD</button> 
+
+
+
 </div>
 </body>
 <script>
-   function downloadAndInstallPatternFunction(selectName) 
+   function downloadAndInstallPatternFunctionA(selectName) 
    {
       try 
       {
-        result = javaDownloadAndInstallPatternFunction(patternzipDownloadURL);
+        result = javaDownloadAndInstallPatternFunction(selectName);
       }
       catch(e){
-          alert( 'a java error in javaDownloadAndInstallPatternFunction occurred: ' + e.message );
+          alert( 'a java error in javaDownloadAndInstallPatternFunctionA occurred: ' + e.message );
+      }
+   };
+   function downloadAndInstallPatternFunctionB() 
+   {
+      try 
+      {
+        result = javaDownloadAndInstallPatternFunction("https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoKafka.patternzip");
+      }
+      catch(e){
+          alert( 'a java error in javaDownloadAndInstallPatternFunctionB occurred: ' + e.message );
+      }
+   };
+   function downloadAndInstallPatternFunctionC() 
+   {
+      try 
+      {
+        result = javaDownloadAndInstallPatternFunction('https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/HTTPtoKafka.patternzip');
+      }
+      catch(e){
+          alert( 'a java error in javaDownloadAndInstallPatternFunctionC occurred: ' + e.message );
+      }
+   };
+   function downloadAndInstallPatternFunctionD() 
+   {
+      try 
+      {
+        result = javaDownloadAndInstallPatternFunction();
+      }
+      catch(e){
+          alert( 'a java error in javaDownloadAndInstallPatternFunctionD occurred: ' + e.message );
       }
    };
 </script>
