@@ -2011,7 +2011,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.NonPersistentAggregation.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.NonPersistentAggregation.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2029,7 +2029,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.Collector.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Collector.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2047,7 +2047,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.Splitter.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Splitter.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2065,7 +2065,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.MessagingFireandForget.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingFireandForget.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2083,7 +2083,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.MessagingRequestReply.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingRequestReply.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2101,7 +2101,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.MessagingPublication.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingPublication.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2119,7 +2119,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.CoordinatedRequestReply.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.CoordinatedRequestReply.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2137,7 +2137,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.Saga.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Saga.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2155,7 +2155,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.CircuitBreaker.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.CircuitBreaker.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2173,7 +2173,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.RecordandReplay.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.RecordandReplay.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2191,7 +2191,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.ClaimCheck.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.ClaimCheck.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2209,7 +2209,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.Filtering.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Filtering.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2227,7 +2227,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.DynamicRouting.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DynamicRouting.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2245,7 +2245,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.Scheduling.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Scheduling.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2263,7 +2263,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.dev.pattern.SequenceResequence.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.SequenceResequence.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
@@ -2281,7 +2281,7 @@
             "versions" :
             [
               { "number" : 1.0,
-                "valid_for_product_version": [ "13*","@@@" ],
+                "valid_for_product_version": [ ],
                 "feature_group_name" : "com.ibm.etools.mft.pattern.fp.rd.httponeway.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.fp.rd.httponeway.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
