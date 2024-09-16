@@ -1637,7 +1637,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.BLOBtoJSON.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.BLOBtoJSON.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/BLOBtoJSON.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/BLOBtoJSON.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
