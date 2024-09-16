@@ -1655,7 +1655,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.BLOBtoXML.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.BLOBtoXML.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/BLOBtoXML.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/BLOBtoXML.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1673,7 +1673,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.BLOBtoFixedLength.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.BLOBtoFixedLength.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/BLOBtoFixedLength.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/BLOBtoFixedLength.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1691,7 +1691,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.BLOBtoDelimited.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.BLOBtoDelimited.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/BLOBtoDelimited.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/BLOBtoDelimited.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1709,7 +1709,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JSONtoBLOB.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JSONtoBLOB.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/JSONtoBLOB.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JSONtoBLOB.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1727,7 +1727,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JSONtoXML.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JSONtoXML.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/JSONtoXML.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JSONtoXML.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1745,7 +1745,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JSONtoFixedLength.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JSONtoFixedLength.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/JSONtoFixedLength.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JSONtoFixedLength.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1763,7 +1763,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.JSONtoDelimited.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.JSONtoDelimited.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/JSONtoDelimited.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/JSONtoDelimited.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1781,7 +1781,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.XMLtoBLOB.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoBLOB.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoBLOB.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/XMLtoBLOB.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1799,7 +1799,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.XMLtoJSON.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoJSON.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoJSON.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/XMLtoJSON.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1817,7 +1817,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.XMLtoFixedLength.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoFixedLength.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoFixedLength.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/XMLtoFixedLength.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1835,7 +1835,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.XMLtoDelimited.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.XMLtoDelimited.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/XMLtoDelimited.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/XMLtoDelimited.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1853,7 +1853,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoBLOB.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoBLOB.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoBLOB.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FixedLengthtoBLOB.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1871,7 +1871,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoJSON.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoJSON.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoJSON.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FixedLengthtoJSON.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1889,7 +1889,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoXML.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoXML.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoXML.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FixedLengthtoXML.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1907,7 +1907,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoDelimited.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.FixedLengthtoDelimited.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/FixedLengthtoDelimited.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/FixedLengthtoDelimited.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1925,7 +1925,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoBLOB.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoBLOB.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoBLOB.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DelimitedtoBLOB.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1943,7 +1943,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoJSON.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoJSON.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoJSON.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DelimitedtoJSON.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1961,7 +1961,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoXML.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoXML.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoXML.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DelimitedtoXML.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1979,7 +1979,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DelimitedtoFixedLength.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DelimitedtoFixedLength.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/formattransformation/DelimitedtoFixedLength.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DelimitedtoFixedLength.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -1997,7 +1997,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.PersistentAggregation.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.PersistentAggregation.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/PersistentAggregation.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/PersistentAggregation.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2015,7 +2015,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.NonPersistentAggregation.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.NonPersistentAggregation.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/NonPersistentAggregation.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/NonPersistentAggregation.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2033,7 +2033,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.Collector.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Collector.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/Collector.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/Collector.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2051,7 +2051,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.Splitter.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Splitter.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/scattergather/Splitter.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/Splitter.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2069,7 +2069,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MessagingFireandForget.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingFireandForget.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/MessagingFireandForget.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MessagingFireandForget.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2087,7 +2087,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MessagingRequestReply.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingRequestReply.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/MessagingRequestReply.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MessagingRequestReply.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2105,7 +2105,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.MessagingPublication.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.MessagingPublication.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/MessagingPublication.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/MessagingPublication.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2123,7 +2123,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.CoordinatedRequestReply.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.CoordinatedRequestReply.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/messaging/CoordinatedRequestReply.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/CoordinatedRequestReply.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2141,7 +2141,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.Saga.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Saga.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/Saga.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/Saga.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2159,7 +2159,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.CircuitBreaker.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.CircuitBreaker.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/CircuitBreaker.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/CircuitBreaker.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2177,7 +2177,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.RecordandReplay.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.RecordandReplay.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/RecordandReplay.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/RecordandReplay.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2195,7 +2195,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.ClaimCheck.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.ClaimCheck.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/ClaimCheck.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/ClaimCheck.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2213,7 +2213,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.Filtering.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Filtering.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/Filtering.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/Filtering.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2231,7 +2231,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.DynamicRouting.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.DynamicRouting.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/DynamicRouting.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/DynamicRouting.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2249,7 +2249,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.Scheduling.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.Scheduling.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/Scheduling.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/Scheduling.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2267,7 +2267,7 @@
                 "feature_group_name" : "com.ibm.dev.pattern.SequenceResequence.Feature.feature.group",
                 "nl_feature_group_name" : "com.ibm.dev.pattern.SequenceResequence.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.ibm.com/BTHOMPS/ace-patterns/enterpriseintegration/SequenceResequence.V1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/SequenceResequence.patternzip",
                 "patternzipSize" : "1.23 MB"
               }
             ]
@@ -2282,10 +2282,10 @@
             [
               { "number" : 1.0,
                 "valid_for_product_version": [ ],
-                "feature_group_name" : "com.ibm.etools.mft.pattern.fp.rd.httponeway.Feature.feature.group",
-                "nl_feature_group_name" : "com.ibm.etools.mft.pattern.fp.rd.httponeway.Feature.NL.feature.group",
+                "feature_group_name" : "com.ibm.dev.pattern.CanonicalDataModel.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.dev.pattern.CanonicalDataModel.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
-                "patternzipURL" : "https://github.com/ot4i/file-http-pattern/releases/download/1.0.0.0/FileToHTTPPattern.v1000.patternzip",
+                "patternzipURL" : "https://github.com/ot4i/ace-patterns/releases/download/v1.0.0/CanonicalDataModel.patternzip",
                 "patternzipSize" : "265 KB"
               }
             ]
